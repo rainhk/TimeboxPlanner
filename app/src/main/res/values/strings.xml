@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Timebox Planner</string>
+    <string name="title"> Timebox </string>
+    <string name="hour"> 1 </string>
 </resources>
